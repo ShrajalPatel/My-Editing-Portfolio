@@ -24,12 +24,12 @@ dist-ssr
 *.sw?
 
 # Ignore large media files
-*.mp4
-*.mov
-*.avi
-*.mkv
-*.webm
-*.wav
-*.zip
-*.rar
-*.7z
+# *.mp4
+# *.mov
+# *.avi
+# *.mkv
+# *.webm
+# *.wav
+# *.zip
+# *.rar
+# *.7z
