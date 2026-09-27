@@ -9,7 +9,7 @@ const socialLinks = [
 ];
 
 const contactInfo = [
-  { icon: Mail, label: "Email", value: "savvyshrajal@gmail.com", href: "mailto:savvyshrajal@gmail.com" },
+  { icon: Mail, label: "Email", value: "shrajalpatel15@gmail.com", href: "mailto:shrajalpatel15@gmail.com" },
   { icon: Phone, label: "Phone", value: "+9189 5986 3777", href: "tel:+918959863777" },
 ];
 
