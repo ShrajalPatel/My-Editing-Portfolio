@@ -2,9 +2,9 @@ import { motion } from "framer-motion";
 import { Instagram, Youtube, Mail, Phone, MessageCircle, Linkedin } from "lucide-react";
 
 const socialLinks = [
-  { name: "Instagram", icon: Instagram, url: "https://www.instagram.com/savvy_shrajal?igsh=MTB2ajB0c25qbGNhcA==", color: "hover:text-pink-500" },
+  { name: "Instagram", icon: Instagram, url: "https://www.instagram.com/tarang.ae?stkn=MW1veGQweGd3dnZhag==", color: "hover:text-pink-500" },
   { name: "Linkedin", icon: Linkedin, url: "https://www.linkedin.com/in/shrajal-patel-b1566b375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app", color: "hover:text-primary" },
-  { name: "YouTube", icon: Youtube, url: "https://www.youtube.com/@SavvyShrajal", color: "hover:text-red-500" },
+  { name: "YouTube", icon: Youtube, url: "https://www.youtube.com/@tarang_ae", color: "hover:text-red-500" },
   { name: "WhatsApp", icon: MessageCircle, url: "https://wa.me/+918959863777", color: "hover:text-green-500" },
 ];
 

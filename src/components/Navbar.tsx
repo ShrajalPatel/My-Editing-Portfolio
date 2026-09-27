@@ -33,7 +33,7 @@ const Navbar = () => {
             transition={{ delay: 0.2 }}
             className="text-2xl font-bold bg-gradient-neon bg-clip-text text-transparent"
           >
-            SAVVYSHRAJAL
+            TARANG.AE
           </motion.div>
 
           <div className="flex gap-8">
